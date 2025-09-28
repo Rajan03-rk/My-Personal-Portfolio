@@ -1,1 +1,21 @@
+# My Portfolio Website
+
+## Description
+This is my personal portfolio website showcasing my web development projects, skills, and experience. It is designed to provide a clean, interactive, and responsive interface for visitors to explore my work. The portfolio highlights my knowledge in front-end technologies and demonstrates practical implementations of HTML, CSS, and JavaScript.
+
+## Features
+- Responsive design for mobile and desktop
+- Smooth scrolling and navigation
+- Projects section with live demo links
+- Contact form for inquiries
+- Modern, user-friendly layout
+
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Optional Enhancements:** Bootstrap, Font Awesome
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rajan03-rk/My-Personal-Portfolio.git
 
